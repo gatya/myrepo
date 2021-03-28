@@ -2,9 +2,7 @@
 title: "New Markdown"
 author: "Gatya Gumilang"
 date: "2021/3/29"
-output:
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
